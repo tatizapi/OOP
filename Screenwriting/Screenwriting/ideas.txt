@@ -1,0 +1,6 @@
+Girl doesn't love him back,proposed,Ioana,2
+Protagonist falls in love,accepted,Mircea,1
+They talk through facebook,proposed,Ionut,3
+Girl is far away,accepted,Ionut,2
+Girl dies,accepted,Ioana,4
+Girl has other priorites,proposed,Ionut,2
